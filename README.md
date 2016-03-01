@@ -15,17 +15,19 @@ Things to be noted:
 ##Instructions:
 
 1. Clone this repository: `$git clone https://github.com/project-prosper/prosper.git`
-2. Do stuff, commit your changes with appropriate commit messages.
-3. Before sending a pull request, make sure that you've cloned the latest version of this repo. 
-If you haven't use `$git fetch -p` to sync with remote origin.
+2. `$cd prosper`
+3. `$make clean`
+4. `$make`
 
 ##TODO:
 
--  [ ] InsertionSort
--  [ ] Quick Sort
--  [ ] Hybrid Sort and Search
--  [ ] Applications
--  [ ] Performance analysis	
+-  [X] InsertionSort
+-  [X] Quick Sort
+-  [X] Hybrid Sort and Search
+-  [X] Applications
+-  [X] Performance analysis	
+
+
  
 
 
